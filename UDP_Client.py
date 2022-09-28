@@ -33,23 +33,3 @@ while transmittion != C_DISCONNECT: #Reading the message to see whether or not t
 
 else: #Specify the condition when the server is disconnected.
     print("\n[DISCONNECT] The server is being disconnected. Thank you for using the server.")
-
-
-
-
-
-#==================================================
-#send("Hello, World!")
-#input()
-#send("I am sending a message from the client side!")
-#input()
-#send("Cya!")
-#input()
-
-#send(C_DISCONNECT)
-#print("DISCONNECTING")
-
-
-
-
-#print(f"Received {data!r}")
